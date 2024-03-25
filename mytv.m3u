@@ -7,3 +7,7 @@ https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8541/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中天新聞台" tvg-logo="https://i.imgur.com/u81tZtA.png" group-title="港台频道",「TW」中天新聞台
 http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
+#EXTINF:-1 tvg-id="" tvg-name="東森新聞台" tvg-logo="https://i.imgur.com/QFZs80p.png" group-title="港台频道",「TW」東森新聞台
+http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
+#EXTINF:-1 tvg-id="" tvg-name="東森新聞台" tvg-logo="https://i.imgur.com/QFZs80p.png" group-title="港台频道",「TW」東森新聞台
+http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
